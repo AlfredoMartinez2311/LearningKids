@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lerning Kids</string>
+    <string name="bnvd">BIENVENIDOS</string>
+    <string name="inicio">Iniciar</string>
+    <string name="nivel">Elige el nivel que deseas</string>
+    <string name="Básico">Básico</string>
+    <string name="Avanz">Avanzado</string>
+    <string name="basico">Básico</string>
+    <string name="btA">A</string>
+    <string name="btE">E</string>
+    <string name="btI">I</string>
+    <string name="btO">O</string>
+    <string name="btU">U</string>
+</resources>
