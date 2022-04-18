@@ -4,10 +4,20 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_basico.xml" value="0.12771739130434784" />
-        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_basicoo.xml" value="0.25" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_basicoo.xml" value="0.18" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_letra.xml" value="0.17" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_letra_e.xml" value="0.1" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_letraa.xml" value="0.1" />
         <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_menu.xml" value="0.12771739130434784" />
-        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_menu2.xml" value="0.5" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_menu2.xml" value="0.25" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_sesion.xml" value="0.25" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_vocal_a.xml" value="0.18" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_vocal_e.xml" value="0.22" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_vocal_i.xml" value="0.22" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_vocal_o.xml" value="0.22" />
+        <entry key="..\:/Users/juana/AndroidStudioProjects/LerningKids/app/src/main/res/layout/activity_vocal_u.xml" value="0.22" />
       </map>
     </option>
   </component>

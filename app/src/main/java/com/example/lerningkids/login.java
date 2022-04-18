@@ -17,7 +17,7 @@ Button bmenu=(Button)findViewById(R.id.btniniciar);
 bmenu.setOnClickListener(new View.OnClickListener() {
     @Override
     public void onClick(View view) {
-        Intent i= new Intent(login.this,menu2.class);
+        Intent i= new Intent(login.this,Sesion.class);
         startActivity(i);
     }
 });

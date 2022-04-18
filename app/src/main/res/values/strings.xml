@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Lerning Kids</string>
     <string name="bnvd">BIENVENIDOS</string>
-    <string name="inicio">Iniciar</string>
+    <string name="inici">Registrarse</string>
     <string name="nivel">Elige el nivel que deseas</string>
     <string name="Básico">Básico</string>
     <string name="Avanz">Avanzado</string>
@@ -11,4 +11,28 @@
     <string name="btI">I</string>
     <string name="btO">O</string>
     <string name="btU">U</string>
+    <string name="usuario">Usuario</string>
+    <string name="pass">Contraseña</string>
+    <string name="regis">Crea uno aquí</string>
+    <string name="usu">¿No tienes un usuario?</string>
+    <string name="Sesion">Iniciar Sesión</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="vocalA">A</string>
+    <string name="vocalE">E</string>
+    <string name="vocalI">I</string>
+    <string name="VocalO">O</string>
+    <string name="VocalU">U</string>
+    <string name="abeja">Abeja</string>
+    <string name="elefante">Elefante</string>
+    <string name="iguana">Iguana</string>
+    <string name="orni">Ornitorrinco</string>
+    <string name="urra">Urraca</string>
+    <string name="Volver">Regresar </string>
+    <string name="Registro">Regístrate</string>
+    <string name="Nombre">Escribe un Usuario</string>
+    <string name="name">Usuario</string>
+    <string name="Contraseña">Escribe una Contraseña</string>
+    <string name="OK">Guardar</string>
+    <string name="contra">*****</string>
+    <string name="regresar">A menú</string>
 </resources>
